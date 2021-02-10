@@ -1,0 +1,8 @@
+site_name: "mk-starter"
+site_description: "mk-starter"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
